@@ -1,0 +1,25 @@
+C:\TSP\TSP\Cuatrimestre II\Laboratorio-Programacion II\Guia\TP3\Archivos\bin\Debug\Archivos.exe.config
+C:\TSP\TSP\Cuatrimestre II\Laboratorio-Programacion II\Guia\TP3\Archivos\bin\Debug\Archivos.exe
+C:\TSP\TSP\Cuatrimestre II\Laboratorio-Programacion II\Guia\TP3\Archivos\bin\Debug\Archivos.pdb
+C:\TSP\TSP\Cuatrimestre II\Laboratorio-Programacion II\Guia\TP3\Archivos\obj\Debug\Archivos.csprojResolveAssemblyReference.cache
+C:\TSP\TSP\Cuatrimestre II\Laboratorio-Programacion II\Guia\TP3\Archivos\obj\Debug\Archivos.exe
+C:\TSP\TSP\Cuatrimestre II\Laboratorio-Programacion II\Guia\TP3\Archivos\obj\Debug\Archivos.pdb
+D:\TP3\TP3\Archivos\bin\Debug\Archivos.exe.config
+D:\TP3\TP3\Archivos\bin\Debug\Archivos.exe
+D:\TP3\TP3\Archivos\bin\Debug\Archivos.pdb
+D:\TP3\TP3\Archivos\obj\Debug\Archivos.exe
+D:\TP3\TP3\Archivos\obj\Debug\Archivos.pdb
+E:\TP3\TP3\Archivos\bin\Debug\Archivos.exe.config
+E:\TP3\TP3\Archivos\bin\Debug\Archivos.exe
+E:\TP3\TP3\Archivos\bin\Debug\Archivos.pdb
+E:\TP3\TP3\Archivos\bin\Debug\mscorlib.dll
+E:\TP3\TP3\Archivos\bin\Debug\System.Net.Http.dll
+E:\TP3\TP3\Archivos\bin\Debug\System.Net.Http.xml
+E:\TP3\TP3\Archivos\bin\Debug\normidna.nlp
+E:\TP3\TP3\Archivos\bin\Debug\normnfc.nlp
+E:\TP3\TP3\Archivos\bin\Debug\normnfd.nlp
+E:\TP3\TP3\Archivos\bin\Debug\normnfkc.nlp
+E:\TP3\TP3\Archivos\bin\Debug\normnfkd.nlp
+E:\TP3\TP3\Archivos\obj\Debug\Archivos.csprojResolveAssemblyReference.cache
+E:\TP3\TP3\Archivos\obj\Debug\Archivos.exe
+E:\TP3\TP3\Archivos\obj\Debug\Archivos.pdb
