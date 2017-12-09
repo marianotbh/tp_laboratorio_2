@@ -1,0 +1,9 @@
+D:\TP3\Burgos.Mariano.2C.TP3\Archivoslib\bin\Debug\Archivoslib.dll
+D:\TP3\Burgos.Mariano.2C.TP3\Archivoslib\bin\Debug\Archivoslib.pdb
+D:\TP3\Burgos.Mariano.2C.TP3\Archivoslib\obj\Debug\Archivoslib.dll
+D:\TP3\Burgos.Mariano.2C.TP3\Archivoslib\obj\Debug\Archivoslib.pdb
+D:\TP3\Burgos.Mariano.2C.TP3\Archivos\bin\Debug\Archivoslib.dll
+D:\TP3\Burgos.Mariano.2C.TP3\Archivos\bin\Debug\Archivoslib.pdb
+D:\TP3\Burgos.Mariano.2C.TP3\Archivos\obj\Debug\Archivoslib.dll
+D:\TP3\Burgos.Mariano.2C.TP3\Archivos\obj\Debug\Archivoslib.pdb
+D:\TP3\Burgos.Mariano.2C.TP3\Archivos\obj\Debug\Archivos.csprojResolveAssemblyReference.cache

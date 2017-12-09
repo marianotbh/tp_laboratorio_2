@@ -1,0 +1,22 @@
+D:\TP3\Burgos.Mariano.2C.TP3\Clases Instanciables lib\bin\Debug\Clases Instanciables lib.dll
+D:\TP3\Burgos.Mariano.2C.TP3\Clases Instanciables lib\bin\Debug\Clases Instanciables lib.pdb
+D:\TP3\Burgos.Mariano.2C.TP3\Clases Instanciables lib\bin\Debug\Archivoslib.dll
+D:\TP3\Burgos.Mariano.2C.TP3\Clases Instanciables lib\bin\Debug\Clases Abstractas lib.dll
+D:\TP3\Burgos.Mariano.2C.TP3\Clases Instanciables lib\bin\Debug\Excepciones lib.dll
+D:\TP3\Burgos.Mariano.2C.TP3\Clases Instanciables lib\bin\Debug\Archivoslib.pdb
+D:\TP3\Burgos.Mariano.2C.TP3\Clases Instanciables lib\bin\Debug\Clases Abstractas lib.pdb
+D:\TP3\Burgos.Mariano.2C.TP3\Clases Instanciables lib\bin\Debug\Excepciones lib.pdb
+D:\TP3\Burgos.Mariano.2C.TP3\Clases Instanciables lib\obj\Debug\Clases Instanciables.csprojResolveAssemblyReference.cache
+D:\TP3\Burgos.Mariano.2C.TP3\Clases Instanciables lib\obj\Debug\Clases Instanciables lib.dll
+D:\TP3\Burgos.Mariano.2C.TP3\Clases Instanciables lib\obj\Debug\Clases Instanciables lib.pdb
+D:\TP3\Burgos.Mariano.2C.TP3\Clases Instanciables\bin\Debug\Clases Instanciables lib.dll
+D:\TP3\Burgos.Mariano.2C.TP3\Clases Instanciables\bin\Debug\Clases Instanciables lib.pdb
+D:\TP3\Burgos.Mariano.2C.TP3\Clases Instanciables\bin\Debug\Archivoslib.dll
+D:\TP3\Burgos.Mariano.2C.TP3\Clases Instanciables\bin\Debug\Clases Abstractas lib.dll
+D:\TP3\Burgos.Mariano.2C.TP3\Clases Instanciables\bin\Debug\Excepciones lib.dll
+D:\TP3\Burgos.Mariano.2C.TP3\Clases Instanciables\bin\Debug\Archivoslib.pdb
+D:\TP3\Burgos.Mariano.2C.TP3\Clases Instanciables\bin\Debug\Clases Abstractas lib.pdb
+D:\TP3\Burgos.Mariano.2C.TP3\Clases Instanciables\bin\Debug\Excepciones lib.pdb
+D:\TP3\Burgos.Mariano.2C.TP3\Clases Instanciables\obj\Debug\Clases Instanciables.csprojResolveAssemblyReference.cache
+D:\TP3\Burgos.Mariano.2C.TP3\Clases Instanciables\obj\Debug\Clases Instanciables lib.dll
+D:\TP3\Burgos.Mariano.2C.TP3\Clases Instanciables\obj\Debug\Clases Instanciables lib.pdb

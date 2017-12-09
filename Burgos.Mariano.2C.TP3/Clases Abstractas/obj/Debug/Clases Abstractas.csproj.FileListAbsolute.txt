@@ -1,0 +1,14 @@
+D:\TP3\Burgos.Mariano.2C.TP3\Clases Abstractas lib\bin\Debug\Clases Abstractas lib.dll
+D:\TP3\Burgos.Mariano.2C.TP3\Clases Abstractas lib\bin\Debug\Clases Abstractas lib.pdb
+D:\TP3\Burgos.Mariano.2C.TP3\Clases Abstractas lib\bin\Debug\Excepciones lib.dll
+D:\TP3\Burgos.Mariano.2C.TP3\Clases Abstractas lib\bin\Debug\Excepciones lib.pdb
+D:\TP3\Burgos.Mariano.2C.TP3\Clases Abstractas lib\obj\Debug\Clases Abstractas.csprojResolveAssemblyReference.cache
+D:\TP3\Burgos.Mariano.2C.TP3\Clases Abstractas lib\obj\Debug\Clases Abstractas lib.dll
+D:\TP3\Burgos.Mariano.2C.TP3\Clases Abstractas lib\obj\Debug\Clases Abstractas lib.pdb
+D:\TP3\Burgos.Mariano.2C.TP3\Clases Abstractas\bin\Debug\Clases Abstractas lib.dll
+D:\TP3\Burgos.Mariano.2C.TP3\Clases Abstractas\bin\Debug\Clases Abstractas lib.pdb
+D:\TP3\Burgos.Mariano.2C.TP3\Clases Abstractas\bin\Debug\Excepciones lib.dll
+D:\TP3\Burgos.Mariano.2C.TP3\Clases Abstractas\bin\Debug\Excepciones lib.pdb
+D:\TP3\Burgos.Mariano.2C.TP3\Clases Abstractas\obj\Debug\Clases Abstractas.csprojResolveAssemblyReference.cache
+D:\TP3\Burgos.Mariano.2C.TP3\Clases Abstractas\obj\Debug\Clases Abstractas lib.dll
+D:\TP3\Burgos.Mariano.2C.TP3\Clases Abstractas\obj\Debug\Clases Abstractas lib.pdb

@@ -1,0 +1,47 @@
+D:\TP3\TP3\Tests\bin\Debug\Tests.dll
+D:\TP3\TP3\Tests\bin\Debug\Tests.pdb
+D:\TP3\TP3\Tests\bin\Debug\Clases Abstractas.exe
+D:\TP3\TP3\Tests\bin\Debug\Clases Instanciables.exe
+D:\TP3\TP3\Tests\bin\Debug\Excepciones.exe
+D:\TP3\TP3\Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\TP3\TP3\Tests\bin\Debug\Archivos.exe
+D:\TP3\TP3\Tests\bin\Debug\Clases Abstractas.pdb
+D:\TP3\TP3\Tests\bin\Debug\Clases Instanciables.pdb
+D:\TP3\TP3\Tests\bin\Debug\Excepciones.pdb
+D:\TP3\TP3\Tests\bin\Debug\Archivos.pdb
+D:\TP3\TP3\Tests\obj\Debug\Tests.csprojResolveAssemblyReference.cache
+D:\TP3\TP3\Tests\obj\Debug\Tests.dll
+D:\TP3\TP3\Tests\obj\Debug\Tests.pdb
+E:\TP3\TP3\Tests\bin\Debug\Tests.dll
+E:\TP3\TP3\Tests\bin\Debug\Tests.pdb
+E:\TP3\TP3\Tests\bin\Debug\Clases Abstractas.exe
+E:\TP3\TP3\Tests\bin\Debug\Clases Instanciables.exe
+E:\TP3\TP3\Tests\bin\Debug\Excepciones.exe
+E:\TP3\TP3\Tests\bin\Debug\mscorlib.dll
+E:\TP3\TP3\Tests\bin\Debug\Archivos.exe
+E:\TP3\TP3\Tests\bin\Debug\Clases Abstractas.pdb
+E:\TP3\TP3\Tests\bin\Debug\Clases Instanciables.pdb
+E:\TP3\TP3\Tests\bin\Debug\Excepciones.pdb
+E:\TP3\TP3\Tests\bin\Debug\Archivos.pdb
+E:\TP3\TP3\Tests\bin\Debug\normidna.nlp
+E:\TP3\TP3\Tests\bin\Debug\normnfc.nlp
+E:\TP3\TP3\Tests\bin\Debug\normnfd.nlp
+E:\TP3\TP3\Tests\bin\Debug\normnfkc.nlp
+E:\TP3\TP3\Tests\bin\Debug\normnfkd.nlp
+E:\TP3\TP3\Tests\obj\Debug\Tests.csprojResolveAssemblyReference.cache
+E:\TP3\TP3\Tests\obj\Debug\Tests.dll
+E:\TP3\TP3\Tests\obj\Debug\Tests.pdb
+D:\TP3\Burgos.Mariano.2C.TP3\Tests\bin\Debug\Tests.dll
+D:\TP3\Burgos.Mariano.2C.TP3\Tests\bin\Debug\Tests.pdb
+D:\TP3\Burgos.Mariano.2C.TP3\Tests\bin\Debug\Clases Abstractas lib.dll
+D:\TP3\Burgos.Mariano.2C.TP3\Tests\bin\Debug\Clases Instanciables lib.dll
+D:\TP3\Burgos.Mariano.2C.TP3\Tests\bin\Debug\Excepciones lib.dll
+D:\TP3\Burgos.Mariano.2C.TP3\Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\TP3\Burgos.Mariano.2C.TP3\Tests\bin\Debug\Archivoslib.dll
+D:\TP3\Burgos.Mariano.2C.TP3\Tests\bin\Debug\Clases Abstractas lib.pdb
+D:\TP3\Burgos.Mariano.2C.TP3\Tests\bin\Debug\Clases Instanciables lib.pdb
+D:\TP3\Burgos.Mariano.2C.TP3\Tests\bin\Debug\Excepciones lib.pdb
+D:\TP3\Burgos.Mariano.2C.TP3\Tests\bin\Debug\Archivoslib.pdb
+D:\TP3\Burgos.Mariano.2C.TP3\Tests\obj\Debug\Tests.csprojResolveAssemblyReference.cache
+D:\TP3\Burgos.Mariano.2C.TP3\Tests\obj\Debug\Tests.dll
+D:\TP3\Burgos.Mariano.2C.TP3\Tests\obj\Debug\Tests.pdb

@@ -1,0 +1,9 @@
+D:\TP3\Burgos.Mariano.2C.TP3\Excepciones lib\bin\Debug\Excepciones lib.dll
+D:\TP3\Burgos.Mariano.2C.TP3\Excepciones lib\bin\Debug\Excepciones lib.pdb
+D:\TP3\Burgos.Mariano.2C.TP3\Excepciones lib\obj\Debug\Excepciones lib.dll
+D:\TP3\Burgos.Mariano.2C.TP3\Excepciones lib\obj\Debug\Excepciones lib.pdb
+D:\TP3\Burgos.Mariano.2C.TP3\Excepciones\bin\Debug\Excepciones lib.dll
+D:\TP3\Burgos.Mariano.2C.TP3\Excepciones\bin\Debug\Excepciones lib.pdb
+D:\TP3\Burgos.Mariano.2C.TP3\Excepciones\obj\Debug\Excepciones lib.dll
+D:\TP3\Burgos.Mariano.2C.TP3\Excepciones\obj\Debug\Excepciones lib.pdb
+D:\TP3\Burgos.Mariano.2C.TP3\Excepciones\obj\Debug\Excepciones.csprojResolveAssemblyReference.cache

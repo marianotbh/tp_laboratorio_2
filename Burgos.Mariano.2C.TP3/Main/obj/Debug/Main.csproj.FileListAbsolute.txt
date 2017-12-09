@@ -1,0 +1,50 @@
+D:\TP3\TP3\Main\bin\Debug\Main.exe.config
+D:\TP3\TP3\Main\bin\Debug\Main.exe
+D:\TP3\TP3\Main\bin\Debug\Main.pdb
+D:\TP3\TP3\Main\bin\Debug\Clases Abstractas.exe
+D:\TP3\TP3\Main\bin\Debug\Clases Instanciables.exe
+D:\TP3\TP3\Main\bin\Debug\Excepciones.exe
+D:\TP3\TP3\Main\bin\Debug\Archivos.exe
+D:\TP3\TP3\Main\bin\Debug\Clases Abstractas.pdb
+D:\TP3\TP3\Main\bin\Debug\Clases Instanciables.pdb
+D:\TP3\TP3\Main\bin\Debug\Excepciones.pdb
+D:\TP3\TP3\Main\bin\Debug\Archivos.pdb
+D:\TP3\TP3\Main\obj\Debug\Main.csprojResolveAssemblyReference.cache
+D:\TP3\TP3\Main\obj\Debug\Main.exe
+D:\TP3\TP3\Main\obj\Debug\Main.pdb
+E:\TP3\TP3\Main\bin\Debug\Main.exe.config
+E:\TP3\TP3\Main\bin\Debug\Main.exe
+E:\TP3\TP3\Main\bin\Debug\Main.pdb
+E:\TP3\TP3\Main\bin\Debug\Clases Abstractas.exe
+E:\TP3\TP3\Main\bin\Debug\Clases Instanciables.exe
+E:\TP3\TP3\Main\bin\Debug\Excepciones.exe
+E:\TP3\TP3\Main\bin\Debug\mscorlib.dll
+E:\TP3\TP3\Main\bin\Debug\System.Net.Http.dll
+E:\TP3\TP3\Main\bin\Debug\Archivos.exe
+E:\TP3\TP3\Main\bin\Debug\Clases Abstractas.pdb
+E:\TP3\TP3\Main\bin\Debug\Clases Instanciables.pdb
+E:\TP3\TP3\Main\bin\Debug\Excepciones.pdb
+E:\TP3\TP3\Main\bin\Debug\System.Net.Http.xml
+E:\TP3\TP3\Main\bin\Debug\Archivos.pdb
+E:\TP3\TP3\Main\bin\Debug\normidna.nlp
+E:\TP3\TP3\Main\bin\Debug\normnfc.nlp
+E:\TP3\TP3\Main\bin\Debug\normnfd.nlp
+E:\TP3\TP3\Main\bin\Debug\normnfkc.nlp
+E:\TP3\TP3\Main\bin\Debug\normnfkd.nlp
+E:\TP3\TP3\Main\obj\Debug\Main.csprojResolveAssemblyReference.cache
+E:\TP3\TP3\Main\obj\Debug\Main.exe
+E:\TP3\TP3\Main\obj\Debug\Main.pdb
+D:\TP3\Burgos.Mariano.2C.TP3\Main\bin\Debug\Main.exe.config
+D:\TP3\Burgos.Mariano.2C.TP3\Main\bin\Debug\Main.exe
+D:\TP3\Burgos.Mariano.2C.TP3\Main\bin\Debug\Main.pdb
+D:\TP3\Burgos.Mariano.2C.TP3\Main\bin\Debug\Clases Abstractas lib.dll
+D:\TP3\Burgos.Mariano.2C.TP3\Main\bin\Debug\Clases Instanciables lib.dll
+D:\TP3\Burgos.Mariano.2C.TP3\Main\bin\Debug\Excepciones lib.dll
+D:\TP3\Burgos.Mariano.2C.TP3\Main\bin\Debug\Archivoslib.dll
+D:\TP3\Burgos.Mariano.2C.TP3\Main\bin\Debug\Clases Abstractas lib.pdb
+D:\TP3\Burgos.Mariano.2C.TP3\Main\bin\Debug\Clases Instanciables lib.pdb
+D:\TP3\Burgos.Mariano.2C.TP3\Main\bin\Debug\Excepciones lib.pdb
+D:\TP3\Burgos.Mariano.2C.TP3\Main\bin\Debug\Archivoslib.pdb
+D:\TP3\Burgos.Mariano.2C.TP3\Main\obj\Debug\Main.csprojResolveAssemblyReference.cache
+D:\TP3\Burgos.Mariano.2C.TP3\Main\obj\Debug\Main.exe
+D:\TP3\Burgos.Mariano.2C.TP3\Main\obj\Debug\Main.pdb
