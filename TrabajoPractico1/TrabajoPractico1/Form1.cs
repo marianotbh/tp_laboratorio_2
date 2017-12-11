@@ -20,13 +20,23 @@ namespace TrabajoPractico1
 
         private void btnLimpiar_Click(object sender, EventArgs e)
         {
+            limpiar();
+        }
+
+        private void btnOperar_Click(object sender, EventArgs e)
+        {
+            operar();
+        }
+
+        private void limpiar()
+        {
             txtNumero1.ResetText();
             txtNumero2.ResetText();
             cmbOperacion.ResetText();
             lblResultado.ResetText();
         }
 
-        private void btnOperar_Click(object sender, EventArgs e)
+        private void operar()
         {
             Numero num1 = new Numero(txtNumero1.Text);
             Numero num2 = new Numero(txtNumero2.Text);
